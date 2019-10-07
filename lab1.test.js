@@ -16,6 +16,6 @@ console.log(lab1.questionThree("Mr. and Mrs. Dursley, of number four, Privet Dri
 //console.log(lab1.questionThree(7))
 // should output 196
 
-console.log(lab1.questionFour(10)); 
+console.log(lab1.questionFour(10));
 //console.log(lab1.questionFour("hello")); 
 // should output 3628800 
